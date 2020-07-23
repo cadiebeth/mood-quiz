@@ -1,0 +1,40 @@
+.topnav {
+  background-color: rgb(55, 95, 160);
+  overflow: hidden;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.topnav a {
+  float:left;
+  color: white;
+  text-align: center;
+  padding: 2%;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav a:hover {
+  background-color: darkgray;
+  color: white;
+}
+
+body {
+  background-image: url();
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+h1 {
+  color: rgb(158, 152, 152);
+  text-align: center;
+  font-family: font-family: 'Roboto Mono', monospace;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  font-size: large;
+}
